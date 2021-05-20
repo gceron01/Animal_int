@@ -10,7 +10,7 @@ public class Parrot extends Bird implements Animal{
     }
 
     public void makeSound() {
-        System.out.println("pio");
+        System.out.println("cambio en github");
     }
     public void eat() {
         System.out.println("That is eat");
